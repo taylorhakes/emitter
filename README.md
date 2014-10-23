@@ -1,0 +1,4 @@
+emitter
+=======
+
+Simple event emitter
